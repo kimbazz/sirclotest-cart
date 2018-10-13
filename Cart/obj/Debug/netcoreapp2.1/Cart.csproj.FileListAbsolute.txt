@@ -1,0 +1,8 @@
+C:\Sirclo Test\cart\Cart\bin\Debug\netcoreapp2.1\Cart.deps.json
+C:\Sirclo Test\cart\Cart\bin\Debug\netcoreapp2.1\Cart.dll
+C:\Sirclo Test\cart\Cart\bin\Debug\netcoreapp2.1\Cart.pdb
+C:\Sirclo Test\cart\Cart\obj\Debug\netcoreapp2.1\Cart.csproj.CoreCompileInputs.cache
+C:\Sirclo Test\cart\Cart\obj\Debug\netcoreapp2.1\Cart.AssemblyInfoInputs.cache
+C:\Sirclo Test\cart\Cart\obj\Debug\netcoreapp2.1\Cart.AssemblyInfo.cs
+C:\Sirclo Test\cart\Cart\obj\Debug\netcoreapp2.1\Cart.dll
+C:\Sirclo Test\cart\Cart\obj\Debug\netcoreapp2.1\Cart.pdb

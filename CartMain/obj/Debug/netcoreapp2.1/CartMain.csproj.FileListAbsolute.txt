@@ -1,0 +1,14 @@
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\CartMain.deps.json
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\CartMain.runtimeconfig.json
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\CartMain.runtimeconfig.dev.json
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\CartMain.dll
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\CartMain.pdb
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.csprojAssemblyReference.cache
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.csproj.CoreCompileInputs.cache
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.AssemblyInfoInputs.cache
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.AssemblyInfo.cs
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.csproj.CopyComplete
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.dll
+C:\Sirclo Test\cart\CartMain\obj\Debug\netcoreapp2.1\CartMain.pdb
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\Carts.dll
+C:\Sirclo Test\cart\CartMain\bin\Debug\netcoreapp2.1\Carts.pdb
